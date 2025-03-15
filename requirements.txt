@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+chromadb
+pypdf
+python-dotenv
+ollama
+sqlalchemy
+psycopg2-binary
+ragas
+streamlit
